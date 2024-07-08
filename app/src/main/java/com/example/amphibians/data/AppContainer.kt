@@ -1,6 +1,5 @@
 package com.example.amphibians.data
 
-import com.example.amphibians.model.AmphibiansInfo
 import com.example.amphibians.network.AmphibiansApiService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
